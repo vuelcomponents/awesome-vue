@@ -242,6 +242,8 @@ Switch / on/off toggle / checkbox
 
 - [vue-quill](https://github.com/vueup/vue-quill) - A Vue 3 rich text editor component based on Quill Editor
 
+### Schedulers  
+- [vuelcalendar](https://vuelcomponents.github.io) - A Vue3 Free Calendar Scheduler
 ### Image Manipulation
 
 Edit images
